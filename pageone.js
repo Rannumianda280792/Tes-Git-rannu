@@ -5,6 +5,6 @@ while (nama == '' || alamat == '') {
     nama = prompt('mohon input nama anda : ');
     alamat = prompt('mohon input alamat lengkap anda : ');
 }
-alert = ('silahkan cek nama dan alamat anda di console');
+alert = ('silahkan cek nama dan alamat anda di console !!!');
 console.log('nama: ' + nama);
 console.log('alamat : ' + alamat);
