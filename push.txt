@@ -1,0 +1,6 @@
+link youtube:youtube.com/watch?v=Fk12ELJ9Bww
+jika ada error lakukan :
+ Git pull Test-Git-rannu
+ enter
+ git push Test-Git-rannu  master --force
+ 
