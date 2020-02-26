@@ -8,3 +8,4 @@ while (nama == '' || alamat == '') {
 alert('silahkan cek nama dan alamat anda di console !!!');
 console.log('nama: ' + nama);
 console.log('alamat : ' + alamat);
+alert('terimakasih partisipasi nya');
