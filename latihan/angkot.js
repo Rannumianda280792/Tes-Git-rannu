@@ -1,0 +1,1 @@
+var inputangkot = prompt('silahkan Masukan Jumlah Angkot');
